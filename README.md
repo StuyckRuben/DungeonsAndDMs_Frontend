@@ -1,2 +1,2 @@
-# DM-hub-frontend
-The frontend of my DM-hub application
+# DungeonDelver_Frontend
+The frontend of my Dungeon Delver application
