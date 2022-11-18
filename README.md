@@ -1,2 +1,2 @@
-# DungeonsAndDms frontend
-The frontend of my Dungeon Delver application
+# DungeonsAndDMs_Frontend
+The frontend of my Dungeons And DMs application
